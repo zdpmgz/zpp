@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class='user-image' src="/images/timg.jpg"></image>
+  <text class='user-name'>Hello, zpp</text>
+  <view class='butn-container' bindtap='onContainerTap'>
+     <text class='butn' >开启探索美食之旅</text> 
+  </view>
+</view>
